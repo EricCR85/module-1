@@ -93,7 +93,7 @@ nav {
   display: flex;
   flex-direction: column;
 }
-.about-me__info--containter {
+.about-me__info--container {
   display: flex;
   flex-direction: column;
   align-items: center;
